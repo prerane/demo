@@ -1,2 +1,2 @@
 # demo
-![image1](../image1.png)
+![image](/image.png)
